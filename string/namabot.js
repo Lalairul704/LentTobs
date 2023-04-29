@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.namabot = `LENTTOBS`
+global.namabot = `LentTobs-MD`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
