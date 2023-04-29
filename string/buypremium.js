@@ -6,7 +6,8 @@ global.buypremium = `Harga Premium LentTobs
 7 Hari : 2K
 15 Hari : 3K
 
-Payment 
+
+Payment / Pembayaran
 
 DANA : 085-904-284-057
 
