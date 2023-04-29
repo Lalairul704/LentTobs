@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.featureowner = `mohon maaf Mas Feature hanya bisa di gunakan oleh Owner Bot Saja`
+global.featureowner = `Mohon Maaf Mas Feature Hanya Bisa Di Gunakan Oleh Owner Bot Saja`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
