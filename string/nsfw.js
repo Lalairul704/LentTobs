@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.nsfw = `Mohon Maaf..Featurr Nsfw Belum Di aktifkan, Harap Hubungi admin Untuk mengaktifkan nya!!`
+global.nsfw = `Mohon Maaf, Feature Nsfw Belum Di aktifkan, Harap Hubungi Admin Untuk mengaktifkan nya !`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
