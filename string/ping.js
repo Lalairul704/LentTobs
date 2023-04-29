@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.ping = `Masuk Masehh`
+global.ping = `Masuk Masehhh`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
