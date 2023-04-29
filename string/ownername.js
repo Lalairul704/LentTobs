@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.ownername = `LENTTOBS GANS`
+global.ownername = `Pak Zainal Dev's ϟ`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
