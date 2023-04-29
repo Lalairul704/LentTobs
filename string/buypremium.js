@@ -10,7 +10,6 @@ global.buypremium = `Harga Premium LentTobs
 Payment / Pembayaran
 
 DANA : 085-904-284-057
-
 PULSA AXIS : 083-838-057-050
 
 Benefit?
