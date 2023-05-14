@@ -1,6 +1,10 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.ngemis = `Bot hsrus menjadi admin Untuk menggunakan Feature ini`
+global.donasi = `
+GOPAY :
+DANA :
+OVO :
+PULSA :`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)

@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.owner =  ['17042814779']
+global.owner = ['6285791762177']
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)

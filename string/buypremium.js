@@ -1,16 +1,17 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.buypremium = `Harga Premium LentTobs
+global.buypremium = `
+harga
+1 minggu:
+2 Minggu:
+3 minggu :
 
-3 Hari : 1K
-7 Hari : 2K
-15 Hari : 3K
+Payment 
 
-
-Payment / Pembayaran
-
-DANA : 085-904-284-057
-PULSA AXIS : 083-838-057-050
+GOPAY :
+DANA :
+OVO :
+PULSA :
 
 Benefit?
 unli Limit
